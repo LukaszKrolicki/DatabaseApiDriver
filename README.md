@@ -1,7 +1,8 @@
 Databasedriver made to connect with nodejs api
 ---------------------------------------------------
 
-Getting data set
+
+### Getting data set
 
 1. Sala datatype in SQL
 
@@ -35,11 +36,13 @@ app.js
 
 --------------------------------------------------------------------------
 
-Posting data
+
+### Posting data
 
 1. Nodejs
 
 database.js
+
 ![image](https://github.com/LukaszKrolicki/DatabaseApiDriver/assets/54467678/1498724a-20fb-45ad-bceb-7a20ed93136c)
 
 app.js
@@ -56,11 +59,13 @@ app.js
 
 --------------------------------------------------------------------------------------------
 
-Getting Image/Pdf (longblob) from database
+
+### Getting Image/Pdf (longblob) from database
 
 1. Nodejs
 
 database.js
+
 ![image](https://github.com/LukaszKrolicki/DatabaseApiDriver/assets/54467678/6f1a11c3-514f-436e-b9ef-93edb9c5ca58)
 
 app.js
@@ -77,7 +82,8 @@ app.js
 
 --------------------------------------------------------------------------------------------------
 
-Sending Image/pdf to database
+
+### Sending Image/pdf to database
 
 1. Nodejs
 
